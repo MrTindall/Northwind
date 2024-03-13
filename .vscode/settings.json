@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a00fc83-1765-4211-a4fd-65c5798d956f/resourceGroups/DotNetWebDev/providers/Microsoft.Web/sites/northwind-amt-17",
+    "appService.deploySubpath": "bin\\Publish"
+}
