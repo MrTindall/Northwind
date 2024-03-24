@@ -1,0 +1,20 @@
+@model IEnumerable<Discount>
+<div class="bg-primary m-1 p-1 text-white">
+    <h4>Discounts</h4>
+</div>
+
+<ul class="list-group">
+    @foreach (Discount discount in Model)
+    {
+        <li class="list-group-item">
+            <a asp-controller="Discount" 
+            asp-action="Discount" 
+            asp-route-id="@discount.DiscountId"></a>
+                            @discount.Title 
+                            Discount Code: @discount.Code
+                            Discount Precentage: @discount.DiscountPercent    
+                            Start Time: @discount.StartTime 
+                            End Time: @discount.EndTime
+        </li>
+    }
+</ul>

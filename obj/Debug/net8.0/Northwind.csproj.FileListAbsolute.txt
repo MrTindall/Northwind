@@ -132,3 +132,4 @@ C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Nort
 C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Debug\net8.0\Northwind.csproj.AssemblyReference.cache
 C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Debug\net8.0\Northwind.csproj.Up2Date
+C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Debug\net8.0\Northwind.sourcelink.json

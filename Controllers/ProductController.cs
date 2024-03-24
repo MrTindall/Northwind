@@ -14,5 +14,9 @@ namespace Northwind.Controllers
         public IActionResult Index(int id) => View(_dataContext.Products
                                             .Where(p => p.CategoryId == id)
                                             .Where(p => p.UnitsInStock != 0));
+
+        public IActionResult Discount() {
+            return View(_dataContext.Discounts);
+        }
     }
 }

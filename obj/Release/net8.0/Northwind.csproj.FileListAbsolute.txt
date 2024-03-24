@@ -132,3 +132,4 @@ C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Nort
 C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Release\net8.0\Northwind.pdb
 C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Release\net8.0\Northwind.genruntimeconfig.cache
 C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Release\net8.0\ref\Northwind.dll
+C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind\obj\Release\net8.0\Northwind.sourcelink.json

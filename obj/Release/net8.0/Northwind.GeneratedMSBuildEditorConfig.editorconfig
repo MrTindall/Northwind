@@ -18,12 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alex\Documents\# Software Dev Degree Courses\DotNet Web Dev\Week 4\Northwind
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alex/Documents/\# Software Dev Degree Courses/DotNet Web Dev/Week 4/Northwind/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/\# Software Dev Degree Courses/DotNet Web Dev/Week 4/Northwind/Views/Customer/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alex/Documents/\# Software Dev Degree Courses/DotNet Web Dev/Week 4/Northwind/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alex/Documents/\# Software Dev Degree Courses/DotNet Web Dev/Week 4/Northwind/Views/Product/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alex/Documents/\# Software Dev Degree Courses/DotNet Web Dev/Week 4/Northwind/Views/Product/Discount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEaXNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alex/Documents/\# Software Dev Degree Courses/DotNet Web Dev/Week 4/Northwind/Views/Product/Index.cshtml]
